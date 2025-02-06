@@ -124,7 +124,7 @@ public class csvTable {
             title = table.getValueAt(row, 0).toString();
             author = table.getValueAt(row, 1).toString();
             year = table.getValueAt(row, 2).toString();
-            description = "brief description test holder space multiple line holder space. testing for multiple lines. \nAbra Kadabra Kurwa! \nHello world \nMy ASs Is FaT \nThe magic world of jurassic park was a novel written for kids. \nUnfortunately the novel never saw the shelves, due to the and I quote \"unholiness of the language used to describe such atrocities\" ";
+            description = "IN TESTING";
 
 
         } else {
